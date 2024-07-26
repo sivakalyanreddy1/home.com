@@ -1,0 +1,37 @@
+/* Sample CSS */
+
+/* Styling the <h1> element */
+h1 {
+  color: blue;
+  font-size: 24px;
+}
+
+/* Styling the <h2> element */
+h2 {
+  color: green;
+  font-size: 20px;
+}
+
+/* Styling the <h3> element */
+h3 {
+  color: red;
+  font-size: 18px;
+}
+
+/* Styling the <h4> element */
+h4 {
+  color: orange;
+  font-size: 16px;
+}
+
+/* Styling the <h5> element */
+h5 {
+  color: purple;
+  font-size: 14px;
+}
+
+/* Styling the <h6> element */
+h6 {
+  color: brown;
+  font-size: 12px;
+}
